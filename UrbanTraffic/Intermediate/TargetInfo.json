@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UrbanTraffic",
+			"Path": "C:\\Users\\JeongBoRa\\Desktop\\PearlAbyssUrbanTraffic\\UrbanTraffic\\Source\\UrbanTraffic.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UrbanTrafficEditor",
+			"Path": "C:\\Users\\JeongBoRa\\Desktop\\PearlAbyssUrbanTraffic\\UrbanTraffic\\Source\\UrbanTrafficEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

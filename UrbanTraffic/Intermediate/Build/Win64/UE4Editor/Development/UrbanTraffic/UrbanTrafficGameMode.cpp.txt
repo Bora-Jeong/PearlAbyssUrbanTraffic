@@ -1,0 +1,18 @@
+C:\Users\JeongBoRa\Desktop\PearlAbyssUrbanTraffic\UrbanTraffic\Intermediate\Build\Win64\UE4Editor\Development\UrbanTraffic\Definitions.UrbanTraffic.h
+C:\Users\JeongBoRa\Desktop\PearlAbyssUrbanTraffic\UrbanTraffic\Source\UrbanTraffic\UrbanTrafficGameMode.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\JeongBoRa\Desktop\PearlAbyssUrbanTraffic\UrbanTraffic\Intermediate\Build\Win64\UE4Editor\Inc\UrbanTraffic\UrbanTrafficGameMode.generated.h
+C:\Users\JeongBoRa\Desktop\PearlAbyssUrbanTraffic\UrbanTraffic\Source\UrbanTraffic\UrbanTrafficPawn.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Runtime\PhysXVehicles\Source\PhysXVehicles\Public\WheeledVehicle.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Runtime\PhysXVehicles\Intermediate\Build\Win64\UE4Editor\Inc\PhysXVehicles\WheeledVehicle.generated.h
+C:\Users\JeongBoRa\Desktop\PearlAbyssUrbanTraffic\UrbanTraffic\Intermediate\Build\Win64\UE4Editor\Inc\UrbanTraffic\UrbanTrafficPawn.generated.h
+C:\Users\JeongBoRa\Desktop\PearlAbyssUrbanTraffic\UrbanTraffic\Source\UrbanTraffic\UrbanTrafficHud.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+C:\Users\JeongBoRa\Desktop\PearlAbyssUrbanTraffic\UrbanTraffic\Intermediate\Build\Win64\UE4Editor\Inc\UrbanTraffic\UrbanTrafficHud.generated.h
