@@ -1,0 +1,11 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\JeongBoRa\Desktop\PearlAbyssUrbanTraffic).
+  Building UrbanTrafficEditor...
+  Using Visual Studio 2019 14.29.30138 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 3 actions with 12 processes...
+    [1/3] UE4Editor-UrbanTraffic-0023.lib
+       C:\Users\JeongBoRa\Desktop\PearlAbyssUrbanTraffic\UrbanTraffic\Intermediate\Build\Win64\UE4Editor\Development\UrbanTraffic\UE4Editor-UrbanTraffic-0023.lib 라이브러리 및 C:\Users\JeongBoRa\Desktop\PearlAbyssUrbanTraffic\UrbanTraffic\Intermediate\Build\Win64\UE4Editor\Development\UrbanTraffic\UE4Editor-UrbanTraffic-0023.exp 개체를 생성하고 있습니다.
+    [2/3] UE4Editor-UrbanTraffic-0023.dll
+       C:\Users\JeongBoRa\Desktop\PearlAbyssUrbanTraffic\UrbanTraffic\Intermediate\Build\Win64\UE4Editor\Development\UrbanTraffic\UE4Editor-UrbanTraffic-0023.suppressed.lib 라이브러리 및 C:\Users\JeongBoRa\Desktop\PearlAbyssUrbanTraffic\UrbanTraffic\Intermediate\Build\Win64\UE4Editor\Development\UrbanTraffic\UE4Editor-UrbanTraffic-0023.suppressed.exp 개체를 생성하고 있습니다.
+    [3/3] UrbanTrafficEditor.target
+  Total time in Parallel executor: 0.74 seconds
+  Total execution time: 1.30 seconds

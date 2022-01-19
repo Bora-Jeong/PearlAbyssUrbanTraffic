@@ -21,8 +21,8 @@ void EmptyLinkFunctionForGeneratedCodeUrbanTraffic_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x41015153,
-				0xE8A268F7,
+				0x0B864363,
+				0x3792B11C,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);

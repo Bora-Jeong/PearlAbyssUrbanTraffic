@@ -1,9 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <None Include="..\..\UrbanTraffic.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{C0CBB784-5C51-4807-A870-76BEAB3CEDA0}</UniqueIdentifier>
+      <UniqueIdentifier>{E3B04238-2B4F-4540-B84B-AA0F4D0BB4D1}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\UrbanTraffic.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +11,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{7C74872B-237F-424A-84F2-72D1062D55EB}</UniqueIdentifier>
+      <UniqueIdentifier>{203317D4-E53E-4206-BAF1-7BEA65142991}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +29,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\UrbanTraffic">
-      <UniqueIdentifier>{26D4C78C-04B5-4A60-BD50-7994DA08F6E6}</UniqueIdentifier>
+      <UniqueIdentifier>{25E391C5-CF36-4090-BB4E-056CBA196492}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\UrbanTraffic\UrbanTraffic.Build.cs">
       <Filter>Source\UrbanTraffic</Filter>
@@ -69,6 +68,16 @@
       <Filter>Source\UrbanTraffic</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\UrbanTraffic\UrbanTrafficWheelRear.h">
+      <Filter>Source\UrbanTraffic</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\UrbanTraffic\UDPNetworkingWrapper.cpp">
+      <Filter>Source\UrbanTraffic</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\UrbanTraffic\UDPNetworkingWrapper.h">
       <Filter>Source\UrbanTraffic</Filter>
     </ClInclude>
   </ItemGroup>
