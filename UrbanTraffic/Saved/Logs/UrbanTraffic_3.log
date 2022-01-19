@@ -1,0 +1,1574 @@
+﻿Log file open, 01/19/22 18:40:02
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: UrbanTraffic
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.203666
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin TcpSocketPlugin
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-10600KF CPU @ 4.10GHz, GPU: NVIDIA GeForce RTX 3070
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -EpicPortal -epicusername=JeongBoRa -epicuserid=af33cdce2179496eb81d4d55fb25f2de -epiclocale=ko -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.01.19-09.40.02:769][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.01.19-09.40.02:769][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.01.19-09.40.02:769][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/Config/Windows/Engine.ini]
+[2022.01.19-09.40.02:769][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.01.19-09.40.02:769][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/Config/Windows/Engine.ini]
+[2022.01.19-09.40.02:769][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/Config/Windows/Engine.ini]
+[2022.01.19-09.40.02:769][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.01.19-09.40.02:769][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.01.19-09.40.02:769][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.01.19-09.40.02:769][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.01.19-09.40.02:769][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.01.19-09.40.02:769][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.01.19-09.40.02:769][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.01.19-09.40.02:769][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.01.19-09.40.02:769][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.01.19-09.40.02:769][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.01.19-09.40.02:769][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.01.19-09.40.02:769][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.01.19-09.40.02:769][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.01.19-09.40.02:769][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.01.19-09.40.02:769][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/Config/Windows/Engine.ini]
+[2022.01.19-09.40.02:769][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.01.19-09.40.02:769][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.01.19-09.40.02:769][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.01.19-09.40.02:769][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.01.19-09.40.02:769][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.01.19-09.40.02:769][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.01.19-09.40.02:769][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.01.19-09.40.02:769][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.01.19-09.40.02:769][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.01.19-09.40.02:769][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.01.19-09.40.02:769][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.01.19-09.40.02:769][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.01.19-09.40.02:769][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.01.19-09.40.02:769][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.01.19-09.40.02:769][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/Config/Windows/Engine.ini]
+[2022.01.19-09.40.02:769][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/Config/Windows/Engine.ini]
+[2022.01.19-09.40.02:783][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/Config/Windows/Scalability.ini]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/Config/Windows/Scalability.ini]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/Config/Windows/Scalability.ini]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/Config/Windows/Scalability.ini]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.01.19-09.40.02:783][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/Config/Windows/Scalability.ini]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/Config/Windows/Scalability.ini]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/Config/Windows/Scalability.ini]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/Config/Windows/Scalability.ini]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.01.19-09.40.02:784][  0]LogInit: Selected Device Profile: [Windows]
+[2022.01.19-09.40.02:784][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.01.19-09.40.02:784][  0]LogHAL: Display: Platform has ~ 32 GB [34282401792 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.01.19-09.40.02:784][  0]LogInit: Going up to parent DeviceProfile []
+[2022.01.19-09.40.02:784][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/Config/Windows/Scalability.ini]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/Config/Windows/Scalability.ini]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/Config/Windows/Scalability.ini]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/Config/Windows/Scalability.ini]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.01.19-09.40.02:784][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/Config/Windows/Scalability.ini]
+[2022.01.19-09.40.02:785][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/Config/Windows/Scalability.ini]
+[2022.01.19-09.40.02:785][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/Config/Windows/Scalability.ini]
+[2022.01.19-09.40.02:785][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/Config/Windows/Scalability.ini]
+[2022.01.19-09.40.02:785][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.01.19-09.40.02:785][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.01.19-09.40.02:785][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/Config/Windows/Engine.ini]
+[2022.01.19-09.40.02:785][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/Config/Windows/Editor.ini]
+[2022.01.19-09.40.02:785][  0]LogInit: Computer: IIIXR-LAB-PC-2
+[2022.01.19-09.40.02:785][  0]LogInit: User: JeongBoRa
+[2022.01.19-09.40.02:785][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.01.19-09.40.02:785][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.01.19-09.40.02:785][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2022.01.19-09.40.02:785][  0]LogMemory: Platform Memory Stats for Windows
+[2022.01.19-09.40.02:785][  0]LogMemory: Process Physical Memory: 135.64 MB used, 135.65 MB peak
+[2022.01.19-09.40.02:785][  0]LogMemory: Process Virtual Memory: 120.82 MB used, 120.82 MB peak
+[2022.01.19-09.40.02:785][  0]LogMemory: Physical Memory: 14777.71 MB used,  17916.54 MB free, 32694.25 MB total
+[2022.01.19-09.40.02:785][  0]LogMemory: Virtual Memory: 134205400.00 MB used,  12329.67 MB free, 134217728.00 MB total
+[2022.01.19-09.40.02:791][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.01.19-09.40.02:837][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.01.19-09.40.02:838][  0]LogInit: Using OS detected language (ko-KR).
+[2022.01.19-09.40.02:838][  0]LogInit: Using OS detected locale (ko-KR).
+[2022.01.19-09.40.02:841][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2022.01.19-09.40.02:918][  0]LogInit: Setting process to per monitor DPI aware
+[2022.01.19-09.40.02:946][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.19-09.40.02:957][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.01.19-09.40.02:957][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.01.19-09.40.03:152][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2022.01.19-09.40.03:152][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.01.19-09.40.03:152][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.01.19-09.40.03:152][  0]LogD3D11RHI: D3D11 adapters:
+[2022.01.19-09.40.03:259][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3070' (Feature Level 11_0)
+[2022.01.19-09.40.03:259][  0]LogD3D11RHI:       8043/0/16347 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.01.19-09.40.03:261][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.01.19-09.40.03:261][  0]LogD3D11RHI:       0/0/16347 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.01.19-09.40.03:261][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.01.19-09.40.03:266][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.01.19-09.40.03:266][  0]LogD3D11RHI:     GPU DeviceId: 0x2484 (for the marketing name, search the web for "GPU Device Id")
+[2022.01.19-09.40.03:266][  0]LogWindows: EnumDisplayDevices:
+[2022.01.19-09.40.03:267][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3070' (P:1 D:1)
+[2022.01.19-09.40.03:267][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3070' (P:0 D:1)
+[2022.01.19-09.40.03:267][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3070' (P:0 D:0)
+[2022.01.19-09.40.03:267][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3070' (P:0 D:0)
+[2022.01.19-09.40.03:268][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.01.19-09.40.03:268][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3070
+[2022.01.19-09.40.03:268][  0]LogD3D11RHI:   Driver Version: 510.06 (internal:30.0.15.1006, unified:510.06)
+[2022.01.19-09.40.03:268][  0]LogD3D11RHI:      Driver Date: 8-24-2021
+[2022.01.19-09.40.03:268][  0]LogRHI: Texture pool is 5630 MB (70% of 8043 MB)
+[2022.01.19-09.40.03:333][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.01.19-09.40.03:333][  0]LogD3D11RHI: Async texture creation enabled
+[2022.01.19-09.40.03:333][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.01.19-09.40.03:353][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2022.01.19-09.40.03:354][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.01.19-09.40.03:611][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.01.19-09.40.03:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.01.19-09.40.03:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.01.19-09.40.03:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.01.19-09.40.03:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.01.19-09.40.03:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.01.19-09.40.03:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.01.19-09.40.03:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.01.19-09.40.03:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.01.19-09.40.03:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.01.19-09.40.03:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.01.19-09.40.03:648][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.01.19-09.40.03:648][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.01.19-09.40.03:656][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.01.19-09.40.03:664][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.01.19-09.40.03:672][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.01.19-09.40.03:679][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.01.19-09.40.03:688][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.01.19-09.40.03:700][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.01.19-09.40.03:708][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.01.19-09.40.03:729][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.01.19-09.40.03:729][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.01.19-09.40.03:736][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.01.19-09.40.03:744][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.01.19-09.40.03:752][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.01.19-09.40.03:759][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.01.19-09.40.03:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.01.19-09.40.03:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.01.19-09.40.03:782][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.01.19-09.40.03:790][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.01.19-09.40.03:798][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.01.19-09.40.03:805][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.01.19-09.40.03:805][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.01.19-09.40.03:813][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.01.19-09.40.03:875][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.01.19-09.40.03:875][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Intermediate/Shaders/WorkingDirectory/14292/).
+[2022.01.19-09.40.03:875][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/JeongBoRa/AppData/Local/Temp/UnrealShaderWorkingDir/7AAD73834E8B441FF682EDAFC6522DE4/'.
+[2022.01.19-09.40.03:876][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.01.19-09.40.03:876][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.01.19-09.40.04:511][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.01.19-09.40.04:550][  0]LogDerivedDataCache: Loaded boot cache 0.04s 79MB C:/Users/JeongBoRa/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.01.19-09.40.04:550][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/JeongBoRa/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.01.19-09.40.04:550][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.01.19-09.40.04:550][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.01.19-09.40.04:550][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.01.19-09.40.04:550][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.01.19-09.40.04:560][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.01.19-09.40.04:560][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.01.19-09.40.04:560][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.01.19-09.40.04:568][  0]LogDerivedDataCache: Speed tests for C:/Users/JeongBoRa/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.01.19-09.40.04:568][  0]LogDerivedDataCache: Display: Performance to C:/Users/JeongBoRa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=850.82MBs, RandomWriteSpeed=131.25MBs. Assigned SpeedClass 'Local'
+[2022.01.19-09.40.04:569][  0]LogDerivedDataCache: Using Local data cache path C:/Users/JeongBoRa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.01.19-09.40.04:569][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.01.19-09.40.04:569][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.01.19-09.40.04:609][  0]LogSlate: Using FreeType 2.10.0
+[2022.01.19-09.40.04:610][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.01.19-09.40.04:629][  0]LogAssetRegistry: FAssetRegistry took 0.0020 seconds to start up
+[2022.01.19-09.40.04:813][  0]LogInit: Selected Device Profile: [Windows]
+[2022.01.19-09.40.04:813][  0]LogInit: Active device profile: [0000017911979F00][000001790F95A600 49] Windows
+[2022.01.19-09.40.04:813][  0]LogInit: Profiles: [0000017911979F00][000001790F95A600 49] Windows, [0000017911936300][0000017910C50780 49] WindowsNoEditor, [000001791197BA00][0000017910C54900 49] WindowsServer, [0000017911934800][0000017910C58A80 49] WindowsClient, [0000017911978900][0000017910C5CC00 49] IOS, [0000017911937900][0000017910C60D80 49] iPadAir, [0000017911979600][0000017910C64F00 49] iPadAir2, [00000179118E7600][0000017910C6D1C0 49] IPadPro, [00000179118E7700][0000017910C69200 49] iPadAir3, [0000017911979300][0000017910C71380 49] iPadAir4, [00000179118E7900][0000017910C75500 49] iPadMini2, [000001791197A300][0000017910C4D640 49] iPadMini3, [00000179118E6700][0000017910C79780 49] iPadMini4, [000001791197BB00][0000017910C7D8C0 49] iPadMini5, [0000017911952E00][0000017910CABB40 49] iPhone6, [0000017911952F00][0000017910C93B80 49] iPodTouch6, [00000179118E7F00][0000017910CC2180 49] iPhone7, [00000179118E7500][0000017910CB21C0 49] iPodTouch7, [0000017911952700][0000017910CE6340 49] iPhone5S, [00000179118E7300][0000017910CEA4C0 49] iPhone6Plus, [0000017911953E00][0000017910CEE640 49] iPhone6S, [00000179118E5000][0000017910CF67C0 49] iPhone6SPlus, [0000017911952900][0000017910D02940 49] iPhone7Plus, [00000179118E6800][0000017910D06AC0 49] iPhoneSE, [0000017911952800][0000017910D0EC40 49] iPhone8, [00000179118E5400][0000017910D12DC0 49] iPhone8Plus, [0000017911951F00][0000017910D16F40 49] iPhoneX, [00000179118E5B00][0000017910D1B0C0 49] iPhoneXS, [0000017911950600][0000017910D2B240 49] iPhoneXSMax, [00000179118E4200][0000017910D2F3C0 49] iPhoneXR, [0000017911953400][0000017910D33540 49] iPhone11, [00000179118E7200][0000017910CA7680 49] iPhone11Pro, [0000017911950800][0000017910D377C0 49] iPhone11ProMax, [00000179118E4500][0000017910D3B900 49] iPhoneSE2, [0000017911951C00][0000017910D3FA40 49] iPhone12Mini, [00000179118E5D00][0000017910D47BC0 49] iPhone12, [0000017911951600][0000017910D4BD40 49] iPhone12Pro, [00000179118E7000][0000017910D4E200 49] iPhone12ProMax, [0000017911952A00][0000017910D52380 49] iPadPro105, [00000179118E5500][0000017910D56500 49] iPadPro129, [00000179118E5C00][0000017910D5A680 49] iPadPro97, [0000017911935A00][0000017910D5E800 49] iPadPro2_129, [00000179118E4900][0000017910D62980 49] iPad5, [0000017911935400][0000017910D66B00 49] iPad6, [00000179118E6A00][0000017910D6AC80 49] iPad7, [0000017911937F00][0000017911DA0E00 49] iPad8, [00000179118E6200][0000017911DD0F80 49] iPadPro11, [0000017911936E00][0000017911DD5100 49] iPadPro2_11, [0000017911935E00][0000017911DD9280 49] iPadPro3_129, [0000017911951000][0000017911DDD400 49] iPadPro4_129, [0000017911935700][0000017911DE1580 49] AppleTV, [0000017911953800][0000017911DE5700 49] AppleTV4K, [0000017911936200][0000017910D43840 49] TVOS, [0000017911953F00][0000017911DE9980 49] Mac, [0000017911934A00][0000017911DEDAC0 49] MacClient, [0000017911951A00][0000017911DF5C40 49] MacNoEditor, [0000017911937000][0000017911DF8100 49] MacServer, [0000017911950B00][0000017911DFC280 49] Linux, [00000179118E6E00][0000017911E00400 49] LinuxAArch64, [0000017911950500][0000017911E04580 49] LinuxNoEditor, [00000179118E7400][0000017911E08700 49] LinuxAArch64NoEditor, [0000017911951900][0000017911E0C880 49] LinuxClient, [00000179118E7D00][0000017911E10A00 49] LinuxAArch64Client, [0000017911952400][0000017911E14B80 49] LinuxServer, [00000179118E4C00][0000017911E18D00 49] LinuxAArch64Server, [0000017911951100][0000017911E1CE80 49] Android, [00000179118E6C00][0000017911E21000 49] Android_Low, [0000017911950200][0000017911E25180 49] Android_Mid, [00000179118E5300][0000017911E29300 49] Android_High, [0000017911951D00][0000017911E2D480 49] Android_Default, [00000179118E7E00][0000017911E31600 49] Android_Adreno4xx, [0000017911953000][0000017911E35780 49] Android_Adreno5xx_Low, [00000179118E6300][0000017911DF18C0 49] Android_Adreno5xx, [0000017911950D00][0000017911E39A00 49] Android_Adreno6xx, [00000179118E4D00][0000017911E3DB40 49] Android_Adreno6xx_Vulkan, [0000017911953100][0000017911E45CC0 49] Android_Mali_T6xx, [00000179118E4A00][0000017911E48180 49] Android_Mali_T7xx, [0000017911953300][0000017911E4C300 49] Android_Mali_T8xx, [00000179118E4400][0000017911E50480 49] Android_Mali_G71, [0000017911952200][0000017911E54600 49] Android_Mali_G72, [00000179118E6F00][0000017911E58780 49] Android_Mali_G72_Vulkan, [0000017911952D00][0000017911E5C900 49] Android_Mali_G76, [00000179118E4300][0000017911E60A80 49] Android_Mali_G76_Vulkan, [0000017911952C00][0000017911E64C00 49] Android_Mali_G77, [00000179118E6100][0000017911E68D80 49] Android_Mali_G77_Vulkan, [0000017911950400][0000017911E6CF00 49] Android_Vulkan_SM5, [00000179118E7800][0000017911E71080 49] Android_PowerVR_G6xxx, [0000017911952000][0000017911E75200 49] Android_PowerVR_GT7xxx, [00000179118E7C00][0000017911E79380 49] Android_PowerVR_GE8xxx, [0000017911950700][0000017911E7D500 49] Android_PowerVR_GM9xxx, [00000179118E7100][0000017911E81680 49] Android_PowerVR_GM9xxx_Vulkan, [0000017911950300][0000017911E85800 49] Android_TegraK1, [00000179118E5800][0000017911E41940 49] Android_Unknown_Vulkan, [0000017911952B00][0000017911E89A80 49] Lumin, [00000179118E6600][0000017911E8DBC0 49] Lumin_Desktop, [0000017911953900][0000017911E91D00 49] HoloLens, 
+[2022.01.19-09.40.04:904][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.01.19-09.40.04:904][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.01.19-09.40.04:904][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.01.19-09.40.04:904][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.01.19-09.40.04:904][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.01.19-09.40.04:918][  0]LogNetVersion: UrbanTraffic 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1097857828)
+[2022.01.19-09.40.05:253][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.01.19-09.40.05:300][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.047020 seconds
+[2022.01.19-09.40.05:304][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.01.19-09.40.05:304][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.01.19-09.40.05:304][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.01.19-09.40.05:669][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.01.19-09.40.05:673][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.01.19-09.40.05:768][  0]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.01.19-09.40.05:768][  0]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.01.19-09.40.05:768][  0]LogUObjectGlobals: Warning: 'Class /Game/VehicleBP/VehicleOverview.VehicleOverview_C' 오브젝트를 찾는 데 실패했습니다.
+[2022.01.19-09.40.05:792][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.01.19-09.40.05:792][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.01.19-09.40.05:795][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.01.19-09.40.05:800][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.01.19-09.40.05:807][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.01.19-09.40.05:813][  0]LogUProjectInfo: Found projects:
+[2022.01.19-09.40.06:033][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.01.19-09.40.06:052][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.19-09.40.06:052][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.19-09.40.06:096][  0]LogCollectionManager: Loaded 0 collections in 0.001211 seconds
+[2022.01.19-09.40.06:117][  0]LogFileCache: Scanning file cache for directory 'C:/Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/Collections/' took 0.00s
+[2022.01.19-09.40.06:117][  0]LogFileCache: Scanning file cache for directory 'C:/Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Content/Developers/JeongBoRa/Collections/' took 0.00s
+[2022.01.19-09.40.06:117][  0]LogFileCache: Scanning file cache for directory 'C:/Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Content/Collections/' took 0.00s
+[2022.01.19-09.40.06:117][  0]LogOcInput: OculusInput pre-init called
+[2022.01.19-09.40.06:129][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.01.19-09.40.06:129][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.01.19-09.40.06:169][  0]LogEngine: Initializing Engine...
+[2022.01.19-09.40.06:231][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2022.01.19-09.40.06:231][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.01.19-09.40.06:232][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.01.19-09.40.06:315][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.01.19-09.40.06:321][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.01.19-09.40.06:329][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.01.19-09.40.06:333][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.01.19-09.40.06:333][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.01.19-09.40.06:333][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.19-09.40.06:333][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.19-09.40.06:333][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.19-09.40.06:333][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.19-09.40.06:333][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.19-09.40.06:333][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.19-09.40.06:333][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.19-09.40.06:333][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.19-09.40.06:333][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.19-09.40.06:333][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.19-09.40.06:347][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.19-09.40.06:347][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.01.19-09.40.06:374][  0]LogAudioMixer: Display: Using Audio Device Headphones(High Definition Audio Device)
+[2022.01.19-09.40.06:376][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.19-09.40.06:378][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.19-09.40.06:378][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.19-09.40.06:379][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.19-09.40.06:379][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.19-09.40.06:379][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.19-09.40.06:380][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.19-09.40.06:380][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.19-09.40.06:380][  0]LogInit: FAudioDevice initialized.
+[2022.01.19-09.40.06:380][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.01.19-09.40.06:380][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.01.19-09.40.06:416][  0]LogDerivedDataCache: Saved boot cache 0.04s 79MB C:/Users/JeongBoRa/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.01.19-09.40.06:417][  0]LogInit: Texture streaming: Enabled
+[2022.01.19-09.40.06:428][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.01.19-09.40.06:433][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.01.19-09.40.06:433][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.01.19-09.40.06:436][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.01.19-09.40.06:459][  0]LogInit: Transaction tracking system initialized
+[2022.01.19-09.40.06:479][  0]BlueprintLog: New page: 에디터 로드
+[2022.01.19-09.40.06:544][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2022.01.19-09.40.06:565][  0]TimingProfiler: Initialize
+[2022.01.19-09.40.06:565][  0]TimingProfiler: OnSessionChanged
+[2022.01.19-09.40.06:565][  0]LoadingProfiler: Initialize
+[2022.01.19-09.40.06:565][  0]LoadingProfiler: OnSessionChanged
+[2022.01.19-09.40.06:565][  0]NetworkingProfiler: Initialize
+[2022.01.19-09.40.06:565][  0]NetworkingProfiler: OnSessionChanged
+[2022.01.19-09.40.06:565][  0]MemoryProfiler: Initialize
+[2022.01.19-09.40.06:566][  0]MemoryProfiler: OnSessionChanged
+[2022.01.19-09.40.06:679][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.01.19-09.40.06:679][  0]LogCook: Display: Mobile HDR setting 1
+[2022.01.19-09.40.06:813][  0]LogFileCache: Scanning file cache for directory 'C:/Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Content/' took 0.01s
+[2022.01.19-09.40.06:964][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.01.19-09.40.06:967][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.01.19-09.40.06:967][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.059
+[2022.01.19-09.40.06:967][  0]Cmd: MAP LOAD FILE="../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Content/ModernCity3/Maps/ModernCity3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.19-09.40.06:968][  0]LightingResults: New page: 라이팅 빌드
+[2022.01.19-09.40.06:968][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.01.19-09.40.06:968][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-09.40.06:968][  0]MapCheck: New page: 맵 체크
+[2022.01.19-09.40.06:968][  0]LightingResults: New page: 라이팅 빌드
+[2022.01.19-09.40.06:974][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.01.19-09.40.08:835][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ModernCity3'.
+[2022.01.19-09.40.08:836][  0]LogAIModule: Creating AISystem for world ModernCity3
+[2022.01.19-09.40.08:935][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.19-09.40.08:960][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.01.19-09.40.08:963][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.19-09.40.08:963][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.255ms.
+[2022.01.19-09.40.08:963][  0]LogFileHelpers: Loading map 'ModernCity3' took 1.996
+[2022.01.19-09.40.08:965][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.056
+[2022.01.19-09.40.09:093][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.19-09.40.09:097][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.19-09.40.09:102][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.19-09.40.09:106][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.19-09.40.09:117][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0070 seconds. Added 3611 classes and 867 folders.
+[2022.01.19-09.40.09:119][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.01.19-09.40.09:120][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.01.19-09.40.09:120][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.19-09.40.09:120][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.19-09.40.09:120][  0]LogPakFile: OnPakFileMounted2Time == 0.000006
+[2022.01.19-09.40.09:121][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.01.19-09.40.09:121][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.19-09.40.09:121][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.01.19-09.40.09:121][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2022.01.19-09.40.09:121][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.01.19-09.40.09:121][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.19-09.40.09:121][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.01.19-09.40.09:121][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2022.01.19-09.40.09:122][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.19-09.40.09:122][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.19-09.40.09:122][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.19-09.40.09:122][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2022.01.19-09.40.09:123][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.01.19-09.40.09:123][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.19-09.40.09:123][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.01.19-09.40.09:123][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2022.01.19-09.40.09:123][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.01.19-09.40.09:123][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.19-09.40.09:123][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.01.19-09.40.09:123][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2022.01.19-09.40.09:124][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.01.19-09.40.09:124][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.19-09.40.09:124][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.01.19-09.40.09:124][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2022.01.19-09.40.09:124][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.01.19-09.40.09:124][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.19-09.40.09:124][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.01.19-09.40.09:124][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2022.01.19-09.40.09:125][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.01.19-09.40.09:125][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.19-09.40.09:125][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.01.19-09.40.09:125][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2022.01.19-09.40.09:125][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.01.19-09.40.09:125][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.19-09.40.09:125][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.01.19-09.40.09:125][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2022.01.19-09.40.09:126][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.01.19-09.40.09:126][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.19-09.40.09:126][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.01.19-09.40.09:126][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2022.01.19-09.40.09:127][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.01.19-09.40.09:127][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.19-09.40.09:127][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.01.19-09.40.09:127][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2022.01.19-09.40.09:127][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.19-09.40.09:127][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.19-09.40.09:127][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.19-09.40.09:127][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2022.01.19-09.40.09:128][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.01.19-09.40.09:128][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.19-09.40.09:128][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.01.19-09.40.09:128][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.01.19-09.40.09:128][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.01.19-09.40.09:128][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.19-09.40.09:128][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.01.19-09.40.09:128][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.01.19-09.40.09:129][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.01.19-09.40.09:129][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.19-09.40.09:129][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.19-09.40.09:129][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.01.19-09.40.09:129][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.01.19-09.40.09:129][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.19-09.40.09:129][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.01.19-09.40.09:129][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.01.19-09.40.09:130][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.01.19-09.40.09:130][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.19-09.40.09:130][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.01.19-09.40.09:130][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.01.19-09.40.09:131][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.19-09.40.09:131][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.19-09.40.09:131][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.19-09.40.09:131][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.01.19-09.40.09:131][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.19-09.40.09:131][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.19-09.40.09:131][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.19-09.40.09:131][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.01.19-09.40.09:132][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.01.19-09.40.09:132][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.19-09.40.09:132][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.19-09.40.09:132][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.01.19-09.40.09:132][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.01.19-09.40.09:132][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.19-09.40.09:132][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.01.19-09.40.09:132][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.01.19-09.40.09:133][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.01.19-09.40.09:133][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.19-09.40.09:133][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.01.19-09.40.09:133][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.01.19-09.40.09:133][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.01.19-09.40.09:133][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.19-09.40.09:133][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.01.19-09.40.09:133][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.01.19-09.40.09:134][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.19-09.40.09:134][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.19-09.40.09:134][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.19-09.40.09:134][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.01.19-09.40.09:135][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.01.19-09.40.09:135][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.19-09.40.09:135][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.01.19-09.40.09:135][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.01.19-09.40.09:174][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.01.19-09.40.09:177][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.01.19-09.40.09:336][  0]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.01.19-09.40.09:338][  0]LogSlate: Took 0.001398 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2022.01.19-09.40.09:340][  0]LogSlate: Took 0.001231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2022.01.19-09.40.09:340][  0]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.01.19-09.40.09:342][  0]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.01.19-09.40.09:426][  0]LogRenderer: Reallocating scene render targets to support 936x532 Format 10 NumSamples 1 (Frame:1).
+[2022.01.19-09.40.09:635][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.01.19-09.40.09:635][  0]LogLoad: (Engine Initialization) Total time: 7.73 seconds
+[2022.01.19-09.40.09:635][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.01.19-09.40.09:635][  0]LogInit: First time updating LLM stats...
+[2022.01.19-09.40.09:648][  0]LogRawInputWindows: Warning: Error reading device name
+[2022.01.19-09.40.09:649][  0]LogRawInputWindows: Warning: Error reading device name
+[2022.01.19-09.40.09:649][  0]LogRawInputWindows: Warning: Error reading device name
+[2022.01.19-09.40.09:649][  0]LogRawInputWindows: Warning: Error reading device name
+[2022.01.19-09.40.09:649][  0]LogRawInputWindows: Warning: Found device 3 devices
+[2022.01.19-09.40.09:649][  0]LogRawInputWindows: Warning: Error reading device name
+[2022.01.19-09.40.09:649][  0]LogRawInputWindows: Warning: Error reading device name
+[2022.01.19-09.40.09:649][  0]LogRawInputWindows: Warning: Error reading device name
+[2022.01.19-09.40.09:649][  0]LogRawInputWindows: Warning: Error reading device name
+[2022.01.19-09.40.09:649][  0]LogRawInputWindows: Warning: Found device 3 devices
+[2022.01.19-09.40.09:649][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:4 UsagePage:1)
+[2022.01.19-09.40.09:650][  0]LogRawInputWindows: Warning: Error reading device name
+[2022.01.19-09.40.09:650][  0]LogRawInputWindows: Warning: Error reading device name
+[2022.01.19-09.40.09:650][  0]LogRawInputWindows: Warning: Error reading device name
+[2022.01.19-09.40.09:650][  0]LogRawInputWindows: Warning: Error reading device name
+[2022.01.19-09.40.09:650][  0]LogRawInputWindows: Warning: Found device 3 devices
+[2022.01.19-09.40.09:650][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:5 UsagePage:1)
+[2022.01.19-09.40.09:672][  0]LogAssetRegistry: Asset discovery search completed in 5.0439 seconds
+[2022.01.19-09.40.09:673][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.01.19-09.40.09:727][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.01.19-09.40.09:771][  2]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.01.19-09.40.12:281][289]LogSlate: Window '플러그인' being destroyed
+[2022.01.19-09.40.12:286][289]LogSlate: Window '플러그인' being destroyed
+[2022.01.19-09.40.12:286][289]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2022.01.19-09.40.17:927][891]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2022.01.19-09.40.17:935][891]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2022.01.19-09.40.18:739][978]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> NewUserDefinedStruct
+[2022.01.19-09.40.18:743][978]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2022.01.19-09.40.19:624][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.01.19-09.40.20:468][ 65]LogSlate: Window 'Delete Assets' being destroyed
+[2022.01.19-09.40.20:477][ 65]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.01.19-09.40.20:516][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.01.19-09.40.31:838][421]LogSlate: Window '부모 클래스 선택' being destroyed
+[2022.01.19-09.40.31:844][421]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.01.19-09.40.31:849][421]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.01.19-09.40.46:003][ 96]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Network
+[2022.01.19-09.40.46:006][ 96]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.01.19-09.40.51:307][732]LogContentBrowser: Attempting asset rename: BP_Network -> BP_TCP
+[2022.01.19-09.40.51:326][732]LogMetaData: Removing '/Game/BP_TCP.BP_TCP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BP_Network.PackageMetaData'
+[2022.01.19-09.40.51:326][732]LogMetaData: Removing '/Game/BP_TCP.SKEL_BP_TCP_C:UserConstructionScript' ref from Metadata '/Game/BP_Network.PackageMetaData'
+[2022.01.19-09.40.51:326][732]LogMetaData: Removing '/Game/BP_TCP.SKEL_BP_TCP_C' ref from Metadata '/Game/BP_Network.PackageMetaData'
+[2022.01.19-09.40.51:326][732]LogMetaData: Removing '/Game/BP_TCP.BP_TCP_C' ref from Metadata '/Game/BP_Network.PackageMetaData'
+[2022.01.19-09.40.51:326][732]LogMetaData: Removing '/Game/BP_TCP.BP_TCP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BP_Network.PackageMetaData'
+[2022.01.19-09.40.51:326][732]LogMetaData: Removing '/Game/BP_TCP.BP_TCP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BP_Network.PackageMetaData'
+[2022.01.19-09.40.51:326][732]LogMetaData: Removing '/Game/BP_TCP.BP_TCP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/BP_Network.PackageMetaData'
+[2022.01.19-09.40.51:358][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_TCP" FILE="../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Content/BP_TCP.uasset" SILENT=true
+[2022.01.19-09.40.51:362][732]LogSavePackage: Moving '../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/BP_TCPEC372CA34985342C5635668BFBD5290A.tmp' to '../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Content/BP_TCP.uasset'
+[2022.01.19-09.40.51:428][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.01.19-09.40.51:440][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.01.19-09.40.51:443][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.01.19-09.40.51:517][732]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.01.19-09.40.51:517][732]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.01.19-09.40.51:517][732]LogUObjectGlobals: Warning: 'Object /Game/BP_Network.BP_Network' 오브젝트를 찾는 데 실패했습니다.
+[2022.01.19-09.40.51:517][732]LogAssetEditorSubsystem: Error: Opening Asset editor failed because of null asset
+[2022.01.19-09.40.51:521][732]AssetCheck: New page: 애셋 저장: BP_TCP
+[2022.01.19-09.40.51:521][732]LogContentValidation: Display: Blueprint /Game/BP_TCP.BP_TCP 유효성 검사
+[2022.01.19-09.40.52:844][873]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_TCP.BP_TCP
+[2022.01.19-09.40.52:989][873]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2022.01.19-09.40.55:061][974]LogRenderer: Reallocating scene render targets to support 936x692 Format 10 NumSamples 1 (Frame:1).
+[2022.01.19-09.40.56:903][154]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.01.19-09.40.58:832][323]LogSlate: Took 0.000280 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.01.19-09.41.27:519][384]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '' is not a standard unreal filename or a long path name. Reason: 경로는 4 자 미만이어야 합니다.
+[2022.01.19-09.41.27:520][384]LogBlueprint: Warning: [AssetLog]  (no disk path found): [Compiler] 붙여넣은  CustomEvent  노드가  BeginPlay 이벤트 과 상충하여 커스텀 이벤트로 대체했습니다!
+[2022.01.19-09.42.59:747][650]BlueprintLog: New page: BP_TCP 컴파일
+[2022.01.19-09.42.59:749][650]LogBlueprint: Error: [AssetLog] C:\Users\JeongBoRa\Desktop\PearlAbyssUrbanTraffic\UrbanTraffic\Content\BP_TCP.uasset: [Compiler] ReceivedMessage  시그너처 오류: ReceivedMessage' 함수/이벤트가 필수 시그너처와 일치하지 않습니다 - 델리게이트 또는 함수/이벤트가 변경되었나요?
+[2022.01.19-09.42.59:749][650]LogBlueprint: Error: [AssetLog] C:\Users\JeongBoRa\Desktop\PearlAbyssUrbanTraffic\UrbanTraffic\Content\BP_TCP.uasset: [Compiler] Connected  시그너처 오류: Connected' 함수/이벤트가 필수 시그너처와 일치하지 않습니다 - 델리게이트 또는 함수/이벤트가 변경되었나요?
+[2022.01.19-09.42.59:749][650]LogBlueprint: Error: [AssetLog] C:\Users\JeongBoRa\Desktop\PearlAbyssUrbanTraffic\UrbanTraffic\Content\BP_TCP.uasset: [Compiler] Disconnected  시그너처 오류: Disconnected' 함수/이벤트가 필수 시그너처와 일치하지 않습니다 - 델리게이트 또는 함수/이벤트가 변경되었나요?
+[2022.01.19-09.42.59:780][650]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.01.19-09.42.59:812][650]LogSlate: Took 0.000397 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.01.19-09.42.59:813][650]LogSlate: Took 0.000887 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2022.01.19-09.43.00:211][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_TCP" FILE="../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Content/BP_TCP.uasset" SILENT=true
+[2022.01.19-09.43.00:216][682]LogSavePackage: Moving '../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/BP_TCP32DEA6A3457D0C87DF11178AE4FB55EC.tmp' to '../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Content/BP_TCP.uasset'
+[2022.01.19-09.43.00:230][682]AssetCheck: New page: 애셋 저장: BP_TCP
+[2022.01.19-09.43.00:230][682]LogContentValidation: Display: Blueprint /Game/BP_TCP.BP_TCP 유효성 검사
+[2022.01.19-09.43.39:777][ 46]LogSlate: Took 0.004907 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.01.19-09.44.08:355][970]BlueprintLog: New page: BP_TCP 컴파일
+[2022.01.19-09.44.08:357][970]LogBlueprint: Error: [AssetLog] C:\Users\JeongBoRa\Desktop\PearlAbyssUrbanTraffic\UrbanTraffic\Content\BP_TCP.uasset: [Compiler] ' On Disconnected ' 핀의 현재 값이 유효하지 않습니다: 'On Disconnected' 핀에는 반드시 입력이 연결되어 있어야 합니다 ("by ref" 파라미터는 작업하기에 유효한 입력을 기대합니다).
+[2022.01.19-09.44.08:357][970]LogBlueprint: Error: [AssetLog] C:\Users\JeongBoRa\Desktop\PearlAbyssUrbanTraffic\UrbanTraffic\Content\BP_TCP.uasset: [Compiler] ' On Connected ' 핀의 현재 값이 유효하지 않습니다: 'On Connected' 핀에는 반드시 입력이 연결되어 있어야 합니다 ("by ref" 파라미터는 작업하기에 유효한 입력을 기대합니다).
+[2022.01.19-09.44.08:357][970]LogBlueprint: Error: [AssetLog] C:\Users\JeongBoRa\Desktop\PearlAbyssUrbanTraffic\UrbanTraffic\Content\BP_TCP.uasset: [Compiler] ' On Message Received ' 핀의 현재 값이 유효하지 않습니다: 'On Message Received' 핀에는 반드시 입력이 연결되어 있어야 합니다 ("by ref" 파라미터는 작업하기에 유효한 입력을 기대합니다).
+[2022.01.19-09.44.08:382][970]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.01.19-09.44.08:743][996]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_TCP" FILE="../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Content/BP_TCP.uasset" SILENT=true
+[2022.01.19-09.44.08:748][996]LogSavePackage: Moving '../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/BP_TCP5A76744F40703B42954008A839395FBE.tmp' to '../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Content/BP_TCP.uasset'
+[2022.01.19-09.44.08:759][996]AssetCheck: New page: 애셋 저장: BP_TCP
+[2022.01.19-09.44.08:759][996]LogContentValidation: Display: Blueprint /Game/BP_TCP.BP_TCP 유효성 검사
+[2022.01.19-09.44.18:359][993]BlueprintLog: New page: BP_TCP 컴파일
+[2022.01.19-09.44.18:361][993]LogBlueprint: Error: [AssetLog] C:\Users\JeongBoRa\Desktop\PearlAbyssUrbanTraffic\UrbanTraffic\Content\BP_TCP.uasset: [Compiler] ' On Connected ' 핀의 현재 값이 유효하지 않습니다: 'On Connected' 핀에는 반드시 입력이 연결되어 있어야 합니다 ("by ref" 파라미터는 작업하기에 유효한 입력을 기대합니다).
+[2022.01.19-09.44.18:361][993]LogBlueprint: Error: [AssetLog] C:\Users\JeongBoRa\Desktop\PearlAbyssUrbanTraffic\UrbanTraffic\Content\BP_TCP.uasset: [Compiler] ' On Message Received ' 핀의 현재 값이 유효하지 않습니다: 'On Message Received' 핀에는 반드시 입력이 연결되어 있어야 합니다 ("by ref" 파라미터는 작업하기에 유효한 입력을 기대합니다).
+[2022.01.19-09.44.18:385][993]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.01.19-09.44.19:077][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_TCP" FILE="../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Content/BP_TCP.uasset" SILENT=true
+[2022.01.19-09.44.19:082][ 45]LogSavePackage: Moving '../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/BP_TCPB3CB66B1449BFC3F38AD8090DB9CEB45.tmp' to '../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Content/BP_TCP.uasset'
+[2022.01.19-09.44.19:097][ 45]AssetCheck: New page: 애셋 저장: BP_TCP
+[2022.01.19-09.44.19:097][ 45]LogContentValidation: Display: Blueprint /Game/BP_TCP.BP_TCP 유효성 검사
+[2022.01.19-09.44.20:977][249]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '' is not a standard unreal filename or a long path name. Reason: 경로는 4 자 미만이어야 합니다.
+[2022.01.19-09.44.20:978][249]LogBlueprint: Warning: [AssetLog]  (no disk path found): [Compiler] 붙여넣은  CustomEvent  노드가  Disconnected 과 상충하여 커스텀 이벤트로 대체했습니다!
+[2022.01.19-09.44.32:436][282]BlueprintLog: New page: BP_TCP 컴파일
+[2022.01.19-09.44.32:437][282]LogBlueprint: Error: [AssetLog] C:\Users\JeongBoRa\Desktop\PearlAbyssUrbanTraffic\UrbanTraffic\Content\BP_TCP.uasset: [Compiler] ' On Message Received ' 핀의 현재 값이 유효하지 않습니다: 'On Message Received' 핀에는 반드시 입력이 연결되어 있어야 합니다 ("by ref" 파라미터는 작업하기에 유효한 입력을 기대합니다).
+[2022.01.19-09.44.32:461][282]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.01.19-09.44.32:894][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_TCP" FILE="../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Content/BP_TCP.uasset" SILENT=true
+[2022.01.19-09.44.32:898][311]LogSavePackage: Moving '../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/BP_TCP56D9AC3045AE008E91ECECB591A1386C.tmp' to '../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Content/BP_TCP.uasset'
+[2022.01.19-09.44.32:911][311]AssetCheck: New page: 애셋 저장: BP_TCP
+[2022.01.19-09.44.32:911][311]LogContentValidation: Display: Blueprint /Game/BP_TCP.BP_TCP 유효성 검사
+[2022.01.19-09.44.34:270][447]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '' is not a standard unreal filename or a long path name. Reason: 경로는 4 자 미만이어야 합니다.
+[2022.01.19-09.44.34:270][447]LogBlueprint: Warning: [AssetLog]  (no disk path found): [Compiler] 붙여넣은  CustomEvent  노드가  Connected 과 상충하여 커스텀 이벤트로 대체했습니다!
+[2022.01.19-09.44.43:248][244]BlueprintLog: New page: BP_TCP 컴파일
+[2022.01.19-09.44.43:250][244]LogBlueprint: Error: [AssetLog] C:\Users\JeongBoRa\Desktop\PearlAbyssUrbanTraffic\UrbanTraffic\Content\BP_TCP.uasset: [Compiler] ReceiveMessage  시그너처 오류: ReceiveMessage' 함수/이벤트가 필수 시그너처와 일치하지 않습니다 - 델리게이트 또는 함수/이벤트가 변경되었나요?
+[2022.01.19-09.44.43:273][244]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.01.19-09.44.43:626][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_TCP" FILE="../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Content/BP_TCP.uasset" SILENT=true
+[2022.01.19-09.44.43:632][271]LogSavePackage: Moving '../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/BP_TCPB9F3F6844B8F2A70B08591972D1C5B8E.tmp' to '../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Content/BP_TCP.uasset'
+[2022.01.19-09.44.43:644][271]AssetCheck: New page: 애셋 저장: BP_TCP
+[2022.01.19-09.44.43:644][271]LogContentValidation: Display: Blueprint /Game/BP_TCP.BP_TCP 유효성 검사
+[2022.01.19-09.44.45:566][468]BlueprintLog: New page: BP_TCP 컴파일
+[2022.01.19-09.44.45:567][468]LogBlueprint: Error: [AssetLog] C:\Users\JeongBoRa\Desktop\PearlAbyssUrbanTraffic\UrbanTraffic\Content\BP_TCP.uasset: [Compiler] ReceiveMessage  시그너처 오류: ReceiveMessage' 함수/이벤트가 필수 시그너처와 일치하지 않습니다 - 델리게이트 또는 함수/이벤트가 변경되었나요?
+[2022.01.19-09.44.45:591][468]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.01.19-09.44.45:925][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_TCP" FILE="../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Content/BP_TCP.uasset" SILENT=true
+[2022.01.19-09.44.45:932][501]LogSavePackage: Moving '../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/BP_TCPD35DB8DC427628EE10598BB46CAD5E50.tmp' to '../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Content/BP_TCP.uasset'
+[2022.01.19-09.44.45:944][501]AssetCheck: New page: 애셋 저장: BP_TCP
+[2022.01.19-09.44.45:944][501]LogContentValidation: Display: Blueprint /Game/BP_TCP.BP_TCP 유효성 검사
+[2022.01.19-09.45.05:457][688]BlueprintLog: New page: BP_TCP 컴파일
+[2022.01.19-09.45.05:458][688]LogBlueprint: Error: [AssetLog] C:\Users\JeongBoRa\Desktop\PearlAbyssUrbanTraffic\UrbanTraffic\Content\BP_TCP.uasset: [Compiler] ' On Message Received ' 핀의 현재 값이 유효하지 않습니다: 'On Message Received' 핀에는 반드시 입력이 연결되어 있어야 합니다 ("by ref" 파라미터는 작업하기에 유효한 입력을 기대합니다).
+[2022.01.19-09.45.05:481][688]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.01.19-09.45.05:861][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_TCP" FILE="../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Content/BP_TCP.uasset" SILENT=true
+[2022.01.19-09.45.05:867][725]LogSavePackage: Moving '../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/BP_TCP2EA1BC924D7FB327C67C9CA3EA7AC4AE.tmp' to '../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Content/BP_TCP.uasset'
+[2022.01.19-09.45.05:880][725]AssetCheck: New page: 애셋 저장: BP_TCP
+[2022.01.19-09.45.05:880][725]LogContentValidation: Display: Blueprint /Game/BP_TCP.BP_TCP 유효성 검사
+[2022.01.19-09.45.21:813][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_TCP" FILE="../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Content/BP_TCP.uasset" SILENT=true
+[2022.01.19-09.45.21:818][543]LogSavePackage: Moving '../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/BP_TCP7CA53D3445809EA270B7FDAFD53A98F0.tmp' to '../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Content/BP_TCP.uasset'
+[2022.01.19-09.45.21:830][543]AssetCheck: New page: 애셋 저장: BP_TCP
+[2022.01.19-09.45.21:830][543]LogContentValidation: Display: Blueprint /Game/BP_TCP.BP_TCP 유효성 검사
+[2022.01.19-09.45.23:496][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_TCP" FILE="../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Content/BP_TCP.uasset" SILENT=true
+[2022.01.19-09.45.23:501][732]LogSavePackage: Moving '../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/BP_TCPB0CACDED42958416DE9E3A9E9A94F7DA.tmp' to '../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Content/BP_TCP.uasset'
+[2022.01.19-09.45.23:512][732]AssetCheck: New page: 애셋 저장: BP_TCP
+[2022.01.19-09.45.23:512][732]LogContentValidation: Display: Blueprint /Game/BP_TCP.BP_TCP 유효성 검사
+[2022.01.19-09.45.36:506][113]BlueprintLog: New page: BP_TCP 컴파일
+[2022.01.19-09.45.36:508][113]LogBlueprint: Error: [AssetLog] C:\Users\JeongBoRa\Desktop\PearlAbyssUrbanTraffic\UrbanTraffic\Content\BP_TCP.uasset: [Compiler] ' On Message Received ' 핀의 현재 값이 유효하지 않습니다: 'On Message Received' 핀에는 반드시 입력이 연결되어 있어야 합니다 ("by ref" 파라미터는 작업하기에 유효한 입력을 기대합니다).
+[2022.01.19-09.45.36:532][113]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.01.19-09.45.39:706][379]BlueprintLog: New page: BP_TCP 컴파일
+[2022.01.19-09.45.39:730][379]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.01.19-09.45.40:369][446]BlueprintLog: New page: BP_TCP 컴파일
+[2022.01.19-09.45.40:395][446]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.01.19-09.45.40:879][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_TCP" FILE="../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Content/BP_TCP.uasset" SILENT=true
+[2022.01.19-09.45.40:884][490]LogSavePackage: Moving '../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/BP_TCP7123D9AF49C63B8D5180C9B30CF5CBFF.tmp' to '../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Content/BP_TCP.uasset'
+[2022.01.19-09.45.40:897][490]AssetCheck: New page: 애셋 저장: BP_TCP
+[2022.01.19-09.45.40:897][490]LogContentValidation: Display: Blueprint /Game/BP_TCP.BP_TCP 유효성 검사
+[2022.01.19-09.45.47:248][ 10]BlueprintLog: New page: BP_TCP 컴파일
+[2022.01.19-09.45.47:273][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.01.19-09.45.47:678][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_TCP" FILE="../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Content/BP_TCP.uasset" SILENT=true
+[2022.01.19-09.45.47:684][ 37]LogSavePackage: Moving '../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/BP_TCP52830F1C4D77089C0218C8A4F325C7C0.tmp' to '../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Content/BP_TCP.uasset'
+[2022.01.19-09.45.47:698][ 37]AssetCheck: New page: 애셋 저장: BP_TCP
+[2022.01.19-09.45.47:699][ 37]LogContentValidation: Display: Blueprint /Game/BP_TCP.BP_TCP 유효성 검사
+[2022.01.19-09.45.55:711][194]Cmd: SELECT NONE
+[2022.01.19-09.46.35:155][556]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2022.01.19-09.46.41:500][924]BlueprintLog: New page: BP_TCP 컴파일
+[2022.01.19-09.46.41:526][924]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.01.19-09.46.41:961][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_TCP" FILE="../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Content/BP_TCP.uasset" SILENT=true
+[2022.01.19-09.46.41:966][959]LogSavePackage: Moving '../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/BP_TCP61C12EC44D48A9672A13569048812B28.tmp' to '../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Content/BP_TCP.uasset'
+[2022.01.19-09.46.41:984][959]AssetCheck: New page: 애셋 저장: BP_TCP
+[2022.01.19-09.46.41:984][959]LogContentValidation: Display: Blueprint /Game/BP_TCP.BP_TCP 유효성 검사
+[2022.01.19-09.46.48:041][ 95]LogSlate: Window 'BP_TCP' being destroyed
+[2022.01.19-09.46.48:046][ 95]LogSlate: Window 'BP_TCP' being destroyed
+[2022.01.19-09.46.48:048][ 95]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.01.19-09.46.48:048][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-09.46.59:170][256]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.01.19-09.46.59:176][256]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.19-09.46.59:176][256]PIE: New page: PIE 세션: ModernCity3 (2022. 1. 20. 오전 3:46:59)
+[2022.01.19-09.46.59:177][256]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.01.19-09.46.59:178][256]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.01.19-09.46.59:178][256]LogPlayLevel: Creating play world package: /Game/ModernCity3/Maps/UEDPIE_0_ModernCity3
+[2022.01.19-09.46.59:253][256]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075087s)
+[2022.01.19-09.46.59:254][256]LogAIModule: Creating AISystem for world ModernCity3
+[2022.01.19-09.46.59:254][256]LogPlayLevel: PIE: World Init took: (0.000984s)
+[2022.01.19-09.46.59:254][256]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModernCity3/Maps/ModernCity3.ModernCity3 to /Game/ModernCity3/Maps/UEDPIE_0_ModernCity3.ModernCity3 (0.076265s)
+[2022.01.19-09.46.59:269][256]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.01.19-09.46.59:271][256]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.01.19-09.46.59:271][256]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.19-09.46.59:271][256]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.19-09.46.59:271][256]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.19-09.46.59:271][256]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.19-09.46.59:271][256]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.19-09.46.59:271][256]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.19-09.46.59:271][256]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.19-09.46.59:271][256]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.19-09.46.59:271][256]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.19-09.46.59:271][256]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.19-09.46.59:278][256]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.19-09.46.59:278][256]LogAudioMixer: Display: 1: FrontRight
+[2022.01.19-09.46.59:289][256]LogAudioMixer: Display: Using Audio Device Headphones(High Definition Audio Device)
+[2022.01.19-09.46.59:289][256]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.19-09.46.59:289][256]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.19-09.46.59:289][256]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.19-09.46.59:289][256]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.19-09.46.59:289][256]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.19-09.46.59:289][256]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.19-09.46.59:301][256]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.19-09.46.59:301][256]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.19-09.46.59:301][256]LogInit: FAudioDevice initialized.
+[2022.01.19-09.46.59:301][256]LogAudio: Display: Audio Device (ID: 2) registered with world 'ModernCity3'.
+[2022.01.19-09.46.59:308][256]LogLoad: Game class is 'GameMode'
+[2022.01.19-09.46.59:336][256]LogWorld: Bringing World /Game/ModernCity3/Maps/UEDPIE_0_ModernCity3.ModernCity3 up for play (max tick rate 0) at 2022.01.19-18.46.59
+[2022.01.19-09.46.59:338][256]LogWorld: Bringing up level for play took: 0.027661
+[2022.01.19-09.46.59:338][256]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2022.01.19-09.46.59:345][256]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.01.19-09.46.59:345][256]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.01.19-09.46.59:345][256]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.01.19-09.46.59:345][256]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.01.19-09.46.59:347][256]LogTemp: Log: Created thread
+[2022.01.19-09.46.59:350][256]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.01.19-09.46.59:351][256]PIE: 서버가 로그인했습니다.
+[2022.01.19-09.46.59:352][256]PIE: 에디터에서 플레이 총 시작 시간 0.178초입니다.
+[2022.01.19-09.46.59:353][256]LogTemp: Log: Starting Tcp socket thread.
+[2022.01.19-09.46.59:353][256]LogTemp: Log: Couldn't connect to server. TcpSocketConnection.cpp: line 409
+[2022.01.19-09.46.59:353][256]LogBlueprintUserMessages: [BP_TCP_4] Server Disconnected
+[2022.01.19-09.46.59:354][256]LogTemp: Log: Tcp socket thread was destroyed.
+[2022.01.19-09.47.04:133][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.19-09.47.04:133][737]LogWorld: BeginTearingDown for /Game/ModernCity3/Maps/UEDPIE_0_ModernCity3
+[2022.01.19-09.47.04:134][737]LogWorld: UWorld::CleanupWorld for ModernCity3, bSessionEnded=true, bCleanupResources=true
+[2022.01.19-09.47.04:138][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-09.47.04:148][737]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.19-09.47.04:158][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-09.47.04:181][737]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.19-09.47.04:182][737]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.19-09.47.04:183][737]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.19-09.47.04:195][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.19-09.47.04:235][737]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.01.19-09.47.04:251][738]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2022.01.19-09.47.51:457][178]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.01.19-09.47.51:463][178]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.19-09.47.51:463][178]PIE: New page: PIE 세션: ModernCity3 (2022. 1. 20. 오전 3:47:51)
+[2022.01.19-09.47.51:463][178]LogPlayLevel: Creating play world package: /Game/ModernCity3/Maps/UEDPIE_0_ModernCity3
+[2022.01.19-09.47.51:542][178]LogPlayLevel: PIE: StaticDuplicateObject took: (0.079228s)
+[2022.01.19-09.47.51:543][178]LogAIModule: Creating AISystem for world ModernCity3
+[2022.01.19-09.47.51:543][178]LogPlayLevel: PIE: World Init took: (0.000877s)
+[2022.01.19-09.47.51:543][178]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModernCity3/Maps/ModernCity3.ModernCity3 to /Game/ModernCity3/Maps/UEDPIE_0_ModernCity3.ModernCity3 (0.080261s)
+[2022.01.19-09.47.51:580][178]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.01.19-09.47.51:581][178]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.01.19-09.47.51:581][178]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.19-09.47.51:581][178]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.19-09.47.51:581][178]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.19-09.47.51:581][178]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.19-09.47.51:581][178]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.19-09.47.51:581][178]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.19-09.47.51:581][178]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.19-09.47.51:581][178]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.19-09.47.51:581][178]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.19-09.47.51:582][178]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.19-09.47.51:589][178]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.19-09.47.51:589][178]LogAudioMixer: Display: 1: FrontRight
+[2022.01.19-09.47.51:601][178]LogAudioMixer: Display: Using Audio Device Headphones(High Definition Audio Device)
+[2022.01.19-09.47.51:601][178]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.19-09.47.51:601][178]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.19-09.47.51:601][178]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.19-09.47.51:601][178]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.19-09.47.51:601][178]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.19-09.47.51:601][178]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.19-09.47.51:613][178]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.19-09.47.51:613][178]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.19-09.47.51:613][178]LogInit: FAudioDevice initialized.
+[2022.01.19-09.47.51:613][178]LogAudio: Display: Audio Device (ID: 3) registered with world 'ModernCity3'.
+[2022.01.19-09.47.51:622][178]LogLoad: Game class is 'GameMode'
+[2022.01.19-09.47.51:653][178]LogWorld: Bringing World /Game/ModernCity3/Maps/UEDPIE_0_ModernCity3.ModernCity3 up for play (max tick rate 0) at 2022.01.19-18.47.51
+[2022.01.19-09.47.51:655][178]LogWorld: Bringing up level for play took: 0.031629
+[2022.01.19-09.47.51:655][178]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2022.01.19-09.47.51:657][178]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.01.19-09.47.51:657][178]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.01.19-09.47.51:657][178]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.01.19-09.47.51:659][178]LogTemp: Log: Created thread
+[2022.01.19-09.47.51:663][178]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.01.19-09.47.51:663][178]PIE: 서버가 로그인했습니다.
+[2022.01.19-09.47.51:663][178]PIE: 에디터에서 플레이 총 시작 시간 0.202초입니다.
+[2022.01.19-09.47.51:664][178]LogTemp: Log: Starting Tcp socket thread.
+[2022.01.19-09.47.51:664][178]LogTemp: Log: Couldn't connect to server. TcpSocketConnection.cpp: line 409
+[2022.01.19-09.47.51:664][178]LogBlueprintUserMessages: [BP_TCP_4] Server Disconnected
+[2022.01.19-09.47.51:664][178]LogTemp: Log: Tcp socket thread was destroyed.
+[2022.01.19-09.47.54:372][420]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.19-09.47.54:372][420]LogWorld: BeginTearingDown for /Game/ModernCity3/Maps/UEDPIE_0_ModernCity3
+[2022.01.19-09.47.54:373][420]LogWorld: UWorld::CleanupWorld for ModernCity3, bSessionEnded=true, bCleanupResources=true
+[2022.01.19-09.47.54:378][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-09.47.54:386][420]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.19-09.47.54:395][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-09.47.54:410][420]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.19-09.47.54:410][420]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.19-09.47.54:411][420]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.19-09.47.54:432][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.01.19-09.47.54:448][421]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.01.19-09.50.17:757][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.01.19-09.50.18:116][118]LogSavePackage: Moving '../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/ModernCity3_Auto1DDB2F0C14E40DB87171568B13CD08817.tmp' to '../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/Autosaves/Game/ModernCity3/Maps/ModernCity3_Auto1.umap'
+[2022.01.19-09.50.18:119][118]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ModernCity3/Maps/ModernCity3' took 0.375
+[2022.01.19-09.50.18:119][118]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.375
+[2022.01.19-09.51.19:874][304]LogWindows: LaunchFileInExternalEditor D:\Build\++Portal+Promotion\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\TcpSocketPlugin\Source\TcpSocketPlugin\Private\TcpSocketConnection.cpp 
+[2022.01.19-09.51.19:881][304]LogWindows: Launch application code for D:\Build\++Portal+Promotion\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\TcpSocketPlugin\Source\TcpSocketPlugin\Private\TcpSocketConnection.cpp : 5
+[2022.01.19-09.51.19:881][304]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2022.01.19-09.51.19:886][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:886][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:887][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:887][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:887][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:887][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:887][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:887][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:887][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:887][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:887][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:887][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:887][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:887][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:887][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:887][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:887][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:887][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:887][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:887][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:887][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:887][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:888][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:888][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:888][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:888][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:888][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:888][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:888][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:888][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:888][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:888][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:888][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:888][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:888][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:888][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:888][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:888][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:888][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:888][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:888][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:888][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:888][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:888][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:889][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:889][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:889][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:889][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:889][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:889][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:889][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:889][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:889][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:889][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:889][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:889][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:889][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:889][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:889][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:889][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:889][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:889][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:889][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:890][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:890][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:890][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:890][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:890][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:890][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:890][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:890][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:890][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:890][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:890][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:890][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:890][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:890][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:890][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:890][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:890][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:890][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:891][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:891][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:891][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:891][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:891][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:891][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:891][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:891][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:891][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:891][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:891][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:891][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:891][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:891][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:891][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:891][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:891][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:891][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:891][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:891][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:892][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:892][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:892][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:894][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:894][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:894][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:896][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:896][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:896][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:910][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:914][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:915][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:922][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:923][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:924][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:925][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:925][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:925][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:925][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:925][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:944][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:944][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:944][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:953][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:958][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:960][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:962][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:962][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:964][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:992][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:992][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:992][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:992][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:992][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:993][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.19:993][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.20:009][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.20:009][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.20:009][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.20:019][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.20:019][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-09.51.20:020][304]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.19-10.38.22:780][268]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_TCP.BP_TCP
+[2022.01.19-10.38.37:010][606]BlueprintLog: New page: BP_TCP 컴파일
+[2022.01.19-10.38.37:044][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.01.19-10.38.37:431][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_TCP" FILE="../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Content/BP_TCP.uasset" SILENT=true
+[2022.01.19-10.38.37:437][633]LogSavePackage: Moving '../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/BP_TCPAC84E99444D2DE540F51E788D491EC36.tmp' to '../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Content/BP_TCP.uasset'
+[2022.01.19-10.38.37:451][633]AssetCheck: New page: 애셋 저장: BP_TCP
+[2022.01.19-10.38.37:451][633]LogContentValidation: Display: Blueprint /Game/BP_TCP.BP_TCP 유효성 검사
+[2022.01.19-10.38.40:235][934]LogSlate: Window 'BP_TCP' being destroyed
+[2022.01.19-10.38.40:241][934]LogSlate: Window 'BP_TCP' being destroyed
+[2022.01.19-10.38.40:243][934]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.01.19-10.38.40:243][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-10.38.41:597][ 70]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.01.19-10.38.41:602][ 70]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.19-10.38.41:602][ 70]PIE: New page: PIE 세션: ModernCity3 (2022. 1. 20. 오전 4:38:41)
+[2022.01.19-10.38.41:602][ 70]LogPlayLevel: Creating play world package: /Game/ModernCity3/Maps/UEDPIE_0_ModernCity3
+[2022.01.19-10.38.41:679][ 70]LogPlayLevel: PIE: StaticDuplicateObject took: (0.077296s)
+[2022.01.19-10.38.41:680][ 70]LogAIModule: Creating AISystem for world ModernCity3
+[2022.01.19-10.38.41:680][ 70]LogPlayLevel: PIE: World Init took: (0.000903s)
+[2022.01.19-10.38.41:680][ 70]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModernCity3/Maps/ModernCity3.ModernCity3 to /Game/ModernCity3/Maps/UEDPIE_0_ModernCity3.ModernCity3 (0.078362s)
+[2022.01.19-10.38.41:697][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.01.19-10.38.41:698][ 70]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.01.19-10.38.41:698][ 70]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.19-10.38.41:698][ 70]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.19-10.38.41:698][ 70]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.19-10.38.41:698][ 70]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.19-10.38.41:698][ 70]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.19-10.38.41:698][ 70]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.19-10.38.41:698][ 70]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.19-10.38.41:698][ 70]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.19-10.38.41:698][ 70]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.19-10.38.41:698][ 70]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.19-10.38.41:705][ 70]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.19-10.38.41:705][ 70]LogAudioMixer: Display: 1: FrontRight
+[2022.01.19-10.38.41:716][ 70]LogAudioMixer: Display: Using Audio Device Headphones(High Definition Audio Device)
+[2022.01.19-10.38.41:716][ 70]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.19-10.38.41:716][ 70]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.19-10.38.41:716][ 70]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.19-10.38.41:717][ 70]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.19-10.38.41:717][ 70]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.19-10.38.41:717][ 70]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.19-10.38.41:728][ 70]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.19-10.38.41:728][ 70]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.19-10.38.41:728][ 70]LogInit: FAudioDevice initialized.
+[2022.01.19-10.38.41:728][ 70]LogAudio: Display: Audio Device (ID: 4) registered with world 'ModernCity3'.
+[2022.01.19-10.38.41:737][ 70]LogLoad: Game class is 'GameMode'
+[2022.01.19-10.38.41:765][ 70]LogWorld: Bringing World /Game/ModernCity3/Maps/UEDPIE_0_ModernCity3.ModernCity3 up for play (max tick rate 0) at 2022.01.19-19.38.41
+[2022.01.19-10.38.41:767][ 70]LogWorld: Bringing up level for play took: 0.028097
+[2022.01.19-10.38.41:767][ 70]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2022.01.19-10.38.41:769][ 70]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.01.19-10.38.41:769][ 70]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.01.19-10.38.41:769][ 70]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.01.19-10.38.41:771][ 70]LogTemp: Log: Created thread
+[2022.01.19-10.38.41:774][ 70]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.01.19-10.38.41:774][ 70]PIE: 서버가 로그인했습니다.
+[2022.01.19-10.38.41:775][ 70]PIE: 에디터에서 플레이 총 시작 시간 0.174초입니다.
+[2022.01.19-10.38.41:776][ 70]LogTemp: Log: Starting Tcp socket thread.
+[2022.01.19-10.38.41:776][ 70]LogBlueprintUserMessages: [BP_TCP_4] Server Connected
+[2022.01.19-10.38.48:872][446]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.19-10.38.48:872][446]LogWorld: BeginTearingDown for /Game/ModernCity3/Maps/UEDPIE_0_ModernCity3
+[2022.01.19-10.38.48:873][446]LogTemp: Tcp Socket: Disconnected from server.
+[2022.01.19-10.38.48:882][446]LogWorld: UWorld::CleanupWorld for ModernCity3, bSessionEnded=true, bCleanupResources=true
+[2022.01.19-10.38.48:886][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-10.38.48:889][446]LogTemp: Log: Tcp socket thread was destroyed.
+[2022.01.19-10.38.48:889][446]LogBlueprintUserMessages: [BP_TCP_4] Server Disconnected
+[2022.01.19-10.38.48:892][446]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.19-10.38.48:900][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-10.38.48:912][446]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.19-10.38.48:917][446]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.19-10.38.48:917][446]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.19-10.38.48:940][446]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.01.19-10.38.48:957][447]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.01.19-10.38.57:730][631]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.01.19-10.38.57:736][631]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.19-10.38.57:736][631]PIE: New page: PIE 세션: ModernCity3 (2022. 1. 20. 오전 4:38:57)
+[2022.01.19-10.38.57:736][631]LogPlayLevel: Creating play world package: /Game/ModernCity3/Maps/UEDPIE_0_ModernCity3
+[2022.01.19-10.38.57:813][631]LogPlayLevel: PIE: StaticDuplicateObject took: (0.076915s)
+[2022.01.19-10.38.57:813][631]LogAIModule: Creating AISystem for world ModernCity3
+[2022.01.19-10.38.57:814][631]LogPlayLevel: PIE: World Init took: (0.000985s)
+[2022.01.19-10.38.57:814][631]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModernCity3/Maps/ModernCity3.ModernCity3 to /Game/ModernCity3/Maps/UEDPIE_0_ModernCity3.ModernCity3 (0.078104s)
+[2022.01.19-10.38.57:827][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.01.19-10.38.57:828][631]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.01.19-10.38.57:828][631]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.19-10.38.57:828][631]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.19-10.38.57:828][631]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.19-10.38.57:828][631]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.19-10.38.57:828][631]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.19-10.38.57:828][631]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.19-10.38.57:828][631]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.19-10.38.57:828][631]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.19-10.38.57:828][631]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.19-10.38.57:828][631]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.19-10.38.57:835][631]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.19-10.38.57:835][631]LogAudioMixer: Display: 1: FrontRight
+[2022.01.19-10.38.57:846][631]LogAudioMixer: Display: Using Audio Device Headphones(High Definition Audio Device)
+[2022.01.19-10.38.57:846][631]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.19-10.38.57:846][631]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.19-10.38.57:846][631]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.19-10.38.57:846][631]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.19-10.38.57:846][631]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.19-10.38.57:846][631]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.19-10.38.57:858][631]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.19-10.38.57:858][631]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.19-10.38.57:858][631]LogInit: FAudioDevice initialized.
+[2022.01.19-10.38.57:858][631]LogAudio: Display: Audio Device (ID: 5) registered with world 'ModernCity3'.
+[2022.01.19-10.38.57:862][631]LogLoad: Game class is 'GameMode'
+[2022.01.19-10.38.57:892][631]LogWorld: Bringing World /Game/ModernCity3/Maps/UEDPIE_0_ModernCity3.ModernCity3 up for play (max tick rate 0) at 2022.01.19-19.38.57
+[2022.01.19-10.38.57:894][631]LogWorld: Bringing up level for play took: 0.029652
+[2022.01.19-10.38.57:894][631]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2022.01.19-10.38.57:895][631]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.01.19-10.38.57:895][631]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.01.19-10.38.57:895][631]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.01.19-10.38.57:897][631]LogTemp: Log: Created thread
+[2022.01.19-10.38.57:900][631]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.01.19-10.38.57:900][631]PIE: 서버가 로그인했습니다.
+[2022.01.19-10.38.57:901][631]PIE: 에디터에서 플레이 총 시작 시간 0.167초입니다.
+[2022.01.19-10.38.57:901][631]LogTemp: Log: Starting Tcp socket thread.
+[2022.01.19-10.38.57:901][631]LogBlueprintUserMessages: [BP_TCP_4] Server Connected
+[2022.01.19-10.39.01:803][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.19-10.39.01:803][ 29]LogWorld: BeginTearingDown for /Game/ModernCity3/Maps/UEDPIE_0_ModernCity3
+[2022.01.19-10.39.01:804][ 29]LogTemp: Tcp Socket: Disconnected from server.
+[2022.01.19-10.39.01:811][ 29]LogWorld: UWorld::CleanupWorld for ModernCity3, bSessionEnded=true, bCleanupResources=true
+[2022.01.19-10.39.01:815][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-10.39.01:819][ 29]LogTemp: Log: Tcp socket thread was destroyed.
+[2022.01.19-10.39.01:819][ 29]LogBlueprintUserMessages: [BP_TCP_4] Server Disconnected
+[2022.01.19-10.39.01:821][ 29]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.19-10.39.01:830][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-10.39.01:844][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.19-10.39.01:846][ 29]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.19-10.39.01:847][ 29]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.19-10.39.01:869][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.01.19-10.39.01:886][ 30]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.01.19-10.39.06:245][541]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_TCP.BP_TCP
+[2022.01.19-10.39.47:134][135]BlueprintLog: New page: BP_TCP 컴파일
+[2022.01.19-10.39.47:167][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.01.19-10.39.47:584][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_TCP" FILE="../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Content/BP_TCP.uasset" SILENT=true
+[2022.01.19-10.39.47:590][173]LogSavePackage: Moving '../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/BP_TCP5B4F99294C29A97CEC7E14A5FAEF0477.tmp' to '../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Content/BP_TCP.uasset'
+[2022.01.19-10.39.47:604][173]AssetCheck: New page: 애셋 저장: BP_TCP
+[2022.01.19-10.39.47:604][173]LogContentValidation: Display: Blueprint /Game/BP_TCP.BP_TCP 유효성 검사
+[2022.01.19-10.39.47:834][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_TCP" FILE="../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Content/BP_TCP.uasset" SILENT=true
+[2022.01.19-10.39.47:839][195]LogSavePackage: Moving '../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/BP_TCPB812F28740156A8602353FBB7D55357D.tmp' to '../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Content/BP_TCP.uasset'
+[2022.01.19-10.39.47:854][195]AssetCheck: New page: 애셋 저장: BP_TCP
+[2022.01.19-10.39.47:854][195]LogContentValidation: Display: Blueprint /Game/BP_TCP.BP_TCP 유효성 검사
+[2022.01.19-10.39.52:515][383]LogSlate: Window 'BP_TCP' being destroyed
+[2022.01.19-10.39.52:522][383]LogSlate: Window 'BP_TCP' being destroyed
+[2022.01.19-10.39.52:525][383]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.01.19-10.39.52:525][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-10.39.53:274][453]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.01.19-10.39.53:279][453]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.19-10.39.53:279][453]PIE: New page: PIE 세션: ModernCity3 (2022. 1. 20. 오전 4:39:53)
+[2022.01.19-10.39.53:279][453]LogPlayLevel: Creating play world package: /Game/ModernCity3/Maps/UEDPIE_0_ModernCity3
+[2022.01.19-10.39.53:355][453]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075363s)
+[2022.01.19-10.39.53:355][453]LogAIModule: Creating AISystem for world ModernCity3
+[2022.01.19-10.39.53:356][453]LogPlayLevel: PIE: World Init took: (0.000938s)
+[2022.01.19-10.39.53:356][453]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModernCity3/Maps/ModernCity3.ModernCity3 to /Game/ModernCity3/Maps/UEDPIE_0_ModernCity3.ModernCity3 (0.076467s)
+[2022.01.19-10.39.53:373][453]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.01.19-10.39.53:374][453]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.01.19-10.39.53:374][453]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.19-10.39.53:374][453]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.19-10.39.53:374][453]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.19-10.39.53:375][453]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.19-10.39.53:375][453]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.19-10.39.53:375][453]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.19-10.39.53:375][453]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.19-10.39.53:375][453]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.19-10.39.53:375][453]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.19-10.39.53:375][453]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.19-10.39.53:381][453]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.19-10.39.53:381][453]LogAudioMixer: Display: 1: FrontRight
+[2022.01.19-10.39.53:392][453]LogAudioMixer: Display: Using Audio Device Headphones(High Definition Audio Device)
+[2022.01.19-10.39.53:393][453]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.19-10.39.53:393][453]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.19-10.39.53:393][453]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.19-10.39.53:393][453]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.19-10.39.53:393][453]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.19-10.39.53:393][453]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.19-10.39.53:405][453]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.19-10.39.53:405][453]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.19-10.39.53:405][453]LogInit: FAudioDevice initialized.
+[2022.01.19-10.39.53:405][453]LogAudio: Display: Audio Device (ID: 6) registered with world 'ModernCity3'.
+[2022.01.19-10.39.53:409][453]LogLoad: Game class is 'GameMode'
+[2022.01.19-10.39.53:437][453]LogWorld: Bringing World /Game/ModernCity3/Maps/UEDPIE_0_ModernCity3.ModernCity3 up for play (max tick rate 0) at 2022.01.19-19.39.53
+[2022.01.19-10.39.53:439][453]LogWorld: Bringing up level for play took: 0.027832
+[2022.01.19-10.39.53:439][453]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.01.19-10.39.53:441][453]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.01.19-10.39.53:441][453]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.01.19-10.39.53:441][453]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.01.19-10.39.53:443][453]LogTemp: Log: Created thread
+[2022.01.19-10.39.53:443][453]LogTemp: Warning: Log: Socket 0 isn't connected
+[2022.01.19-10.39.53:446][453]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.01.19-10.39.53:446][453]PIE: 서버가 로그인했습니다.
+[2022.01.19-10.39.53:447][453]PIE: 에디터에서 플레이 총 시작 시간 0.169초입니다.
+[2022.01.19-10.39.53:447][453]LogTemp: Log: Starting Tcp socket thread.
+[2022.01.19-10.39.53:447][453]LogBlueprintUserMessages: [BP_TCP_4] Server Connected
+[2022.01.19-10.39.56:653][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.19-10.39.56:653][811]LogWorld: BeginTearingDown for /Game/ModernCity3/Maps/UEDPIE_0_ModernCity3
+[2022.01.19-10.39.56:654][811]LogTemp: Tcp Socket: Disconnected from server.
+[2022.01.19-10.39.56:656][811]LogWorld: UWorld::CleanupWorld for ModernCity3, bSessionEnded=true, bCleanupResources=true
+[2022.01.19-10.39.56:660][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-10.39.56:664][811]LogTemp: Log: Tcp socket thread was destroyed.
+[2022.01.19-10.39.56:664][811]LogBlueprintUserMessages: [BP_TCP_4] Server Disconnected
+[2022.01.19-10.39.56:666][811]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.19-10.39.56:675][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-10.39.56:687][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.19-10.39.56:692][811]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.19-10.39.56:692][811]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.19-10.39.56:716][811]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.01.19-10.39.56:734][812]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.01.19-10.39.58:314][995]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.01.19-10.39.58:319][995]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.19-10.39.58:319][995]PIE: New page: PIE 세션: ModernCity3 (2022. 1. 20. 오전 4:39:58)
+[2022.01.19-10.39.58:319][995]LogPlayLevel: Creating play world package: /Game/ModernCity3/Maps/UEDPIE_0_ModernCity3
+[2022.01.19-10.39.58:394][995]LogPlayLevel: PIE: StaticDuplicateObject took: (0.074994s)
+[2022.01.19-10.39.58:395][995]LogAIModule: Creating AISystem for world ModernCity3
+[2022.01.19-10.39.58:395][995]LogPlayLevel: PIE: World Init took: (0.000883s)
+[2022.01.19-10.39.58:395][995]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModernCity3/Maps/ModernCity3.ModernCity3 to /Game/ModernCity3/Maps/UEDPIE_0_ModernCity3.ModernCity3 (0.076036s)
+[2022.01.19-10.39.58:409][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.01.19-10.39.58:410][995]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.01.19-10.39.58:410][995]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.19-10.39.58:410][995]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.19-10.39.58:410][995]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.19-10.39.58:410][995]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.19-10.39.58:410][995]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.19-10.39.58:410][995]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.19-10.39.58:410][995]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.19-10.39.58:410][995]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.19-10.39.58:410][995]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.19-10.39.58:410][995]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.19-10.39.58:417][995]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.19-10.39.58:417][995]LogAudioMixer: Display: 1: FrontRight
+[2022.01.19-10.39.58:428][995]LogAudioMixer: Display: Using Audio Device Headphones(High Definition Audio Device)
+[2022.01.19-10.39.58:428][995]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.19-10.39.58:428][995]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.19-10.39.58:428][995]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.19-10.39.58:428][995]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.19-10.39.58:428][995]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.19-10.39.58:428][995]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.19-10.39.58:440][995]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.19-10.39.58:440][995]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.19-10.39.58:440][995]LogInit: FAudioDevice initialized.
+[2022.01.19-10.39.58:440][995]LogAudio: Display: Audio Device (ID: 7) registered with world 'ModernCity3'.
+[2022.01.19-10.39.58:447][995]LogLoad: Game class is 'GameMode'
+[2022.01.19-10.39.58:474][995]LogWorld: Bringing World /Game/ModernCity3/Maps/UEDPIE_0_ModernCity3.ModernCity3 up for play (max tick rate 0) at 2022.01.19-19.39.58
+[2022.01.19-10.39.58:476][995]LogWorld: Bringing up level for play took: 0.028108
+[2022.01.19-10.39.58:476][995]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2022.01.19-10.39.58:478][995]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.01.19-10.39.58:478][995]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.01.19-10.39.58:478][995]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.01.19-10.39.58:480][995]LogTemp: Log: Created thread
+[2022.01.19-10.39.58:480][995]LogTemp: Warning: Log: Socket 0 isn't connected
+[2022.01.19-10.39.58:483][995]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.01.19-10.39.58:483][995]PIE: 서버가 로그인했습니다.
+[2022.01.19-10.39.58:484][995]PIE: 에디터에서 플레이 총 시작 시간 0.166초입니다.
+[2022.01.19-10.39.58:484][995]LogTemp: Log: Starting Tcp socket thread.
+[2022.01.19-10.39.58:484][995]LogBlueprintUserMessages: [BP_TCP_4] Server Connected
+[2022.01.19-10.40.07:713][507]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.19-10.40.07:713][507]LogWorld: BeginTearingDown for /Game/ModernCity3/Maps/UEDPIE_0_ModernCity3
+[2022.01.19-10.40.07:714][507]LogTemp: Tcp Socket: Disconnected from server.
+[2022.01.19-10.40.07:723][507]LogWorld: UWorld::CleanupWorld for ModernCity3, bSessionEnded=true, bCleanupResources=true
+[2022.01.19-10.40.07:728][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-10.40.07:743][507]LogTemp: Log: Tcp socket thread was destroyed.
+[2022.01.19-10.40.07:743][507]LogBlueprintUserMessages: [BP_TCP_4] Server Disconnected
+[2022.01.19-10.40.07:745][507]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.19-10.40.07:753][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-10.40.07:767][507]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.19-10.40.07:770][507]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.19-10.40.07:770][507]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.19-10.40.07:793][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.01.19-10.40.07:817][508]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.01.19-10.41.12:918][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.01.19-10.41.13:288][726]LogSavePackage: Moving '../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/ModernCity3F5937C1B467FE0808C67049F2C25AE82.tmp' to '../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Content/ModernCity3/Maps/ModernCity3.umap'
+[2022.01.19-10.41.13:288][726]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Content/ModernCity3/Maps/ModernCity3.umap', retrying in .5s...
+[2022.01.19-10.41.13:790][726]LogFileManager: Error: Error deleting file '../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Content/ModernCity3/Maps/ModernCity3.umap'.
+[2022.01.19-10.41.13:790][726]LogSavePackage: Error: Error saving '../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Content/ModernCity3/Maps/ModernCity3.umap'
+[2022.01.19-10.41.13:793][726]EditorErrors: New page: 출력 저장
+[2022.01.19-10.41.13:793][726]EditorErrors: Warning: '../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Content/ModernCity3/Maps/ModernCity3.umap' 저장 오류입니다.
+[2022.01.19-10.41.15:738][923]LogSlate: Window '메시지 로그' being destroyed
+[2022.01.19-10.41.17:296][103]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_TCP.BP_TCP
+[2022.01.19-10.41.25:651][880]BlueprintLog: New page: BP_TCP 컴파일
+[2022.01.19-10.41.25:685][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.01.19-10.41.26:050][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_TCP" FILE="../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Content/BP_TCP.uasset" SILENT=true
+[2022.01.19-10.41.26:055][907]LogSavePackage: Moving '../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/BP_TCP69C9FD7D405B8A5EF53E3AA13D8F84D6.tmp' to '../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Content/BP_TCP.uasset'
+[2022.01.19-10.41.26:070][907]AssetCheck: New page: 애셋 저장: BP_TCP
+[2022.01.19-10.41.26:070][907]LogContentValidation: Display: Blueprint /Game/BP_TCP.BP_TCP 유효성 검사
+[2022.01.19-10.41.32:293][627]LogSlate: Window 'BP_TCP' being destroyed
+[2022.01.19-10.41.32:299][627]LogSlate: Window 'BP_TCP' being destroyed
+[2022.01.19-10.41.32:331][627]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.01.19-10.41.32:331][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-10.41.39:336][792]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.01.19-10.41.39:342][792]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.19-10.41.39:342][792]PIE: New page: PIE 세션: ModernCity3 (2022. 1. 20. 오전 4:41:39)
+[2022.01.19-10.41.39:342][792]LogPlayLevel: Creating play world package: /Game/ModernCity3/Maps/UEDPIE_0_ModernCity3
+[2022.01.19-10.41.39:418][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075115s)
+[2022.01.19-10.41.39:418][792]LogAIModule: Creating AISystem for world ModernCity3
+[2022.01.19-10.41.39:419][792]LogPlayLevel: PIE: World Init took: (0.000917s)
+[2022.01.19-10.41.39:419][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModernCity3/Maps/ModernCity3.ModernCity3 to /Game/ModernCity3/Maps/UEDPIE_0_ModernCity3.ModernCity3 (0.076215s)
+[2022.01.19-10.41.39:436][792]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.01.19-10.41.39:438][792]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.01.19-10.41.39:438][792]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.19-10.41.39:438][792]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.19-10.41.39:438][792]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.19-10.41.39:438][792]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.19-10.41.39:438][792]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.19-10.41.39:438][792]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.19-10.41.39:438][792]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.19-10.41.39:438][792]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.19-10.41.39:438][792]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.19-10.41.39:438][792]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.19-10.41.39:446][792]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.19-10.41.39:446][792]LogAudioMixer: Display: 1: FrontRight
+[2022.01.19-10.41.39:458][792]LogAudioMixer: Display: Using Audio Device Headphones(High Definition Audio Device)
+[2022.01.19-10.41.39:458][792]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.19-10.41.39:458][792]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.19-10.41.39:458][792]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.19-10.41.39:458][792]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.19-10.41.39:458][792]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.19-10.41.39:458][792]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.19-10.41.39:471][792]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.19-10.41.39:471][792]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.19-10.41.39:471][792]LogInit: FAudioDevice initialized.
+[2022.01.19-10.41.39:471][792]LogAudio: Display: Audio Device (ID: 8) registered with world 'ModernCity3'.
+[2022.01.19-10.41.39:481][792]LogLoad: Game class is 'GameMode'
+[2022.01.19-10.41.39:509][792]LogWorld: Bringing World /Game/ModernCity3/Maps/UEDPIE_0_ModernCity3.ModernCity3 up for play (max tick rate 0) at 2022.01.19-19.41.39
+[2022.01.19-10.41.39:511][792]LogWorld: Bringing up level for play took: 0.027678
+[2022.01.19-10.41.39:511][792]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.01.19-10.41.39:512][792]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.01.19-10.41.39:512][792]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.01.19-10.41.39:512][792]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.01.19-10.41.39:514][792]LogTemp: Log: Created thread
+[2022.01.19-10.41.39:514][792]LogTemp: Warning: Log: Socket 0 isn't connected
+[2022.01.19-10.41.39:517][792]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.01.19-10.41.39:518][792]PIE: 서버가 로그인했습니다.
+[2022.01.19-10.41.39:518][792]PIE: 에디터에서 플레이 총 시작 시간 0.177초입니다.
+[2022.01.19-10.41.39:519][792]LogTemp: Log: Starting Tcp socket thread.
+[2022.01.19-10.41.39:519][792]LogBlueprintUserMessages: [BP_TCP_4] Server Connected
+[2022.01.19-10.41.44:463][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.19-10.41.44:463][168]LogWorld: BeginTearingDown for /Game/ModernCity3/Maps/UEDPIE_0_ModernCity3
+[2022.01.19-10.41.44:463][168]LogTemp: Tcp Socket: Disconnected from server.
+[2022.01.19-10.41.44:470][168]LogWorld: UWorld::CleanupWorld for ModernCity3, bSessionEnded=true, bCleanupResources=true
+[2022.01.19-10.41.44:474][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-10.41.44:482][168]LogTemp: Log: Tcp socket thread was destroyed.
+[2022.01.19-10.41.44:482][168]LogBlueprintUserMessages: [BP_TCP_4] Server Disconnected
+[2022.01.19-10.41.44:485][168]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.19-10.41.44:493][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-10.41.44:505][168]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.19-10.41.44:506][168]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.19-10.41.44:506][168]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.19-10.41.44:520][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.19-10.41.44:536][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.01.19-10.41.44:559][169]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.01.19-10.42.11:528][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.01.19-10.42.11:897][429]LogSavePackage: Moving '../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/ModernCity3_Auto2B5C7BC54497F2B6DC12C7DADF6BCDC7F.tmp' to '../../../../../../Users/JeongBoRa/Desktop/PearlAbyssUrbanTraffic/UrbanTraffic/Saved/Autosaves/Game/ModernCity3/Maps/ModernCity3_Auto2.umap'
+[2022.01.19-10.42.11:900][429]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ModernCity3/Maps/ModernCity3' took 0.385
+[2022.01.19-10.42.11:900][429]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.385

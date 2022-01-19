@@ -1,8 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
+    <None Include="..\..\UrbanTraffic.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{E3B04238-2B4F-4540-B84B-AA0F4D0BB4D1}</UniqueIdentifier>
+      <UniqueIdentifier>{1A8EFC9A-635A-46F4-AD0D-38277E37412C}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\UrbanTraffic.Target.cs">
       <Filter>Source</Filter>
@@ -11,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{203317D4-E53E-4206-BAF1-7BEA65142991}</UniqueIdentifier>
+      <UniqueIdentifier>{71E7602F-B0E4-4B65-BD2C-D40F8F36F921}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -29,8 +30,14 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\UrbanTraffic">
-      <UniqueIdentifier>{25E391C5-CF36-4090-BB4E-056CBA196492}</UniqueIdentifier>
+      <UniqueIdentifier>{4E70FC82-FD8A-4A48-A90A-014C8E198A0E}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\UrbanTraffic\UDPNetworkingWrapper.cpp">
+      <Filter>Source\UrbanTraffic</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UrbanTraffic\UDPNetworkingWrapper.h">
+      <Filter>Source\UrbanTraffic</Filter>
+    </ClInclude>
     <None Include="..\..\Source\UrbanTraffic\UrbanTraffic.Build.cs">
       <Filter>Source\UrbanTraffic</Filter>
     </None>
@@ -68,16 +75,6 @@
       <Filter>Source\UrbanTraffic</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\UrbanTraffic\UrbanTrafficWheelRear.h">
-      <Filter>Source\UrbanTraffic</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\Source\UrbanTraffic\UDPNetworkingWrapper.cpp">
-      <Filter>Source\UrbanTraffic</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\Source\UrbanTraffic\UDPNetworkingWrapper.h">
       <Filter>Source\UrbanTraffic</Filter>
     </ClInclude>
   </ItemGroup>
