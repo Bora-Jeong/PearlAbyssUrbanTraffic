@@ -7,6 +7,34 @@ import joblib
 from sklearn.ensemble import RandomForestClassifier
 from sklearn import metrics
 
+import torch
+import torch.nn as nn
+import torch.nn.functional as F
+
+class ControlNet(nn.Module):
+    def __init__(self, n_input, n_output):
+        super(ControlNet, self).__init__()
+
+        n_hidden = 256
+
+        self.input_layer = nn.Linear(n_input, n_hidden)
+        self.hidden_layer = nn.Linear(n_hidden, n_hidden)
+        self.output_layer = nn.Linear(n_hidden, n_output)
+
+    def forward(self, x):
+        batch_size, _ = x.size()
+
+        x = self.input_layer(x)
+        x = F.relu(x)
+
+        x = self.hidden_layer(x)
+        x = F.relu(x)
+
+        x = self.output_layer(x)
+
+        out = x
+        return out
+
 class Vehicle:
     def __init__(self, name, features):
         self.name = name
@@ -29,8 +57,8 @@ def inference(vehicles):
     x = [v.features for v in vehicles]
     y = model.predict(x)
     result = ""
-    for i in y:
-        result += vehicles[i].name + "/" + str(i) + "/"
+    for i, j in enumerate(y):
+        result += str(j) + "/"
     return result
 
 HOST = "127.0.0.1"
@@ -54,6 +82,7 @@ while 1:
     # print(data)
     vehicles = process_string_data(data)
     result = inference(vehicles)
+    print(result)
     result = bytes(result, 'utf-8')
     client.send(result)
 
